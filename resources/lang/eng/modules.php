@@ -1239,7 +1239,7 @@ return array(
         'updateDatabaseButton' => 'Click to update database',
         'newUpdate' => 'New update available',
         'updateNow' => 'Update Now',
-        'updateAlternate' => 'If the <b>Update Now</b> button does not work then follow the <b> <a href="https://froiden.freshdesk.com/support/solutions/articles/43000554421-update-application-manually" target="_blank">Manual update</a></b> instructions as mentioned in the documentation.',
+        'updateAlternate' => 'If the <b>Update Now</b> button does not work then follow the <b> <a href="" target="_blank">Manual update</a></b> instructions as mentioned in the documentation.',
         'updateManual' => 'Update Alternate Method',
         'updateFiles' => 'Update Files',
         'install' => 'Install',

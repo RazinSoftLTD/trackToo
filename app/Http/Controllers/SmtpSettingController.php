@@ -61,7 +61,7 @@ class SmtpSettingController extends AccountBaseController
         $message = __('messages.smtpError') . '<br><br> ';
 
         if ($smtp->mail_host == 'smtp.gmail.com') {
-            $secureUrl = 'https://froiden.freshdesk.com/support/solutions/articles/43000672983';
+            $secureUrl = 'https://www.youtube.com/watch?v=ZfEK3WP73eY';
             $message .= __('messages.smtpSecureEnabled');
             $message .= '<a  class="font-13" target="_blank" href="' . $secureUrl . '">' . $secureUrl . '</a>';
             $message .= '<hr>' . $response['message'];

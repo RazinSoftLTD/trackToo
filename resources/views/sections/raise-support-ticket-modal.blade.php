@@ -53,7 +53,7 @@
                                         </div>
                                     </div>
 
-                                    <a href="https://froiden.freshdesk.com/support/tickets/new" target="_blank"
+                                    <a href="https://razinsoft.com/" target="_blank"
                                        class="btn btn-secondary btn-sm">
                                         <i class="fa fa-external-link-alt mr-1"></i>
                                         Raise Ticket
@@ -73,7 +73,7 @@
                                     </div>
 
                                     <div class="d-flex align-items-center mb-3">
-                                        <img src="https://envato.froid.works/logo-froiden.png" alt="Froiden" class="" style="height: 32px;">
+                                        <img src="" alt="Froiden" class="" style="height: 32px;">
                                         <div>
                                             <h5 class="font-weight-bold text-dark mb-1">Priority Support</h5>
                                             <p class="text-muted small mb-0">Premium enhancement service</p>

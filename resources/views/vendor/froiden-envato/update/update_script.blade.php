@@ -14,7 +14,7 @@
 
         Swal.fire({
             title: "Support Expired",
-            html: supportText + "<br>Please renew your support for one-click updates.<br><br> You can still update the application manually by following the documentation <a href='https://froiden.freshdesk.com/support/solutions/articles/43000554421-update-application-manually' target='_blank'>Update Application Manually</a>",
+            html: supportText + "<br>Please renew your support for one-click updates.<br><br> You can still update the application manually by following the documentation <a href='' target='_blank'>Update Application Manually</a>",
             showCancelButton: true,
             confirmButtonText: "Renew Now",
             denyButtonText: `Free Support Guidelines`,
